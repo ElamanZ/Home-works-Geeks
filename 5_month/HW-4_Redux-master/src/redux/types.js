@@ -1,0 +1,5 @@
+export const types = {
+    CHANGE_TITLE: "CHANGE_TITLE",
+    GET_USERS: "GET_USERS",
+    GET_USERS_INFO: "GET_USERS_INFO"
+}

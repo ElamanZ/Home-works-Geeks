@@ -1,0 +1,33 @@
+.wrapper {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 20px 0 0 0;
+    height: 50vh;
+}
+.usd {
+    margin: 10px 0 10px;
+}
+input {
+    padding: 10px 20px;
+}
+label {
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    margin: 70px 0 0 0;
+    font-size: 20px;
+}
+.btn {
+    height: 39px;
+    width: 90px;
+}
+.title {
+    margin: 15px 0;
+}
+
+
